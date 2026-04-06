@@ -1,2 +1,3 @@
-# ai-assistant-prompt-library
+# ai-assistant-prompt-library-for-educators
+
 

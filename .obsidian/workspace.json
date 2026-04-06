@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "2a5b11e2be338d1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb087b647e025590",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83bca4c5dd05d890",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "student/ai-tutor-assistant.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ai-tutor-assistant"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "096d0aa52c7f3cda",
+    "type": "split",
+    "children": [
+      {
+        "id": "31bb4ba3af66ded2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70d005cbcb23c2e0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "30025a2d835e04cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c9b0cfd9e53415e5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fdf75b5fb6bb1205",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf3e3e23d576f726",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eec3617ca2e191ff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "student/ai-tutor-assistant.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for ai-tutor-assistant"
+            }
+          },
+          {
+            "id": "7f0b7bd7b3013d7d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "student/ai-tutor-assistant.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from ai-tutor-assistant"
+            }
+          },
+          {
+            "id": "37810c10142bea8a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "985ba8a0cc8c0889",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "098f92f436387752",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "student/ai-tutor-assistant.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of ai-tutor-assistant"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "83bca4c5dd05d890",
+  "lastOpenFiles": [
+    "README.md",
+    "student/ai-tutor-assistant.md"
+  ]
+}
